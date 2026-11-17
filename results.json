@@ -1,0 +1,88 @@
+{
+  "ratios": {
+    "2024": {
+      "sales_growth": null,
+      "gross_margin": 0.26,
+      "ebit_margin": 0.1257,
+      "net_margin": 0.075,
+      "current_ratio": 2.9784,
+      "quick_ratio": 1.6899,
+      "debt_to_equity": 0.6229,
+      "debt_to_assets": 0.3501,
+      "interest_coverage": 4.8957,
+      "dso": 41.975,
+      "dio": 62.9472,
+      "dpo": 44.9791,
+      "asset_turnover_end": 0.8863,
+      "cash_conversion_cycle": 59.9431
+    },
+    "2025": {
+      "sales_growth": 0.25,
+      "gross_margin": 0.23,
+      "ebit_margin": 0.1003,
+      "net_margin": 0.0573,
+      "current_ratio": 2.338,
+      "quick_ratio": 1.1413,
+      "debt_to_equity": 0.681,
+      "debt_to_assets": 0.352,
+      "interest_coverage": 4.1852,
+      "dso": 49.9876,
+      "dio": 78.0111,
+      "dpo": 61.0365,
+      "asset_turnover_end": 0.954,
+      "cash_conversion_cycle": 66.9623,
+      "dividends": 12026.75,
+      "payout": 0.4,
+      "retention": 0.6,
+      "roe_beginning": 0.1129,
+      "asset_turnover": 1.1078,
+      "equity_multiplier": 1.7791,
+      "sustainable_growth": 0.0677
+    },
+    "2026": {
+      "sales_growth": 0.3,
+      "gross_margin": 0.205,
+      "ebit_margin": 0.0797,
+      "net_margin": 0.0402,
+      "current_ratio": 2.161,
+      "quick_ratio": 0.9777,
+      "debt_to_equity": 0.8732,
+      "debt_to_assets": 0.3861,
+      "interest_coverage": 3.0543,
+      "dso": 58.0256,
+      "dio": 92.9674,
+      "dpo": 73.9972,
+      "asset_turnover_end": 1.0031,
+      "cash_conversion_cycle": 76.9958,
+      "dividends": 10970.25,
+      "payout": 0.4,
+      "retention": 0.6,
+      "roe_beginning": 0.0964,
+      "asset_turnover": 1.2402,
+      "equity_multiplier": 1.9348,
+      "sustainable_growth": 0.0579
+    }
+  },
+  "trade_credit_2025": {
+    "purchases": 437050.0,
+    "nominal_cost": 0.2483,
+    "effective_cost": 0.2786,
+    "effective_cost_after_tax": 0.209,
+    "discounts_forgone": 8741.0,
+    "discounts_share_of_net_income": 0.2907,
+    "cost_of_debt": 0.07
+  },
+  "funding_2026": {
+    "asset_growth": 130100.0,
+    "retained_earnings": 16455.0,
+    "new_debt": 69045.0,
+    "payables_and_accruals": 44600.0,
+    "new_equity": 0.0
+  },
+  "projection_2029_debt_to_equity": {
+    "Keep growing 30%": 2.206,
+    "30% with zero dividends": 1.794,
+    "Slow to 15%": 1.338,
+    "Sustainable rate (5.8%)": 0.873
+  }
+}
